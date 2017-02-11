@@ -3,7 +3,7 @@
 |Qué?|Cúanto?|
 |---|---|
 |**Apple**||
-|[Macbook blanca unibody 13" 2.16ghz 4gb](/apple/macbook)	| 4000
+|[Macbook blanca unibody 13" 2.16ghz 4gb](/apple/macbook/README.md)	| 4000
 |Apple Magic Mouse|1200|
 |Apple trackpad (estallado pero funca)	| 500
 |Apple teclado inalámbrico + funda	| 1500
