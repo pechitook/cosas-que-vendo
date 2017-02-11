@@ -3,9 +3,9 @@
 |Qué?|Cúanto?|
 |---|---|
 |**Apple**||
-|[Macbook blanca unibody 13" 2.16ghz 4gb](/apple/macbook/README.md)	| 4000
-|Apple Magic Mouse|1200|
-|Apple trackpad (estallado pero funca)	| 500
+|[Macbook blanca 13" 2.16ghz 4gb](/apple/macbook/README.md)	| 4000
+|[Magic Mouse 1](/apple/mouse/README.md)|1200|
+|Trackpad inalámbrico 💥 (estallado pero funca)	| 500
 |Apple teclado inalámbrico + funda	| 1500
 |Ipod nano 5ta gen con cámara 16gb 🏃‍♀️🏃	| 500
 |Ipod touch 4ta gen con cámara 8GB	| 900
