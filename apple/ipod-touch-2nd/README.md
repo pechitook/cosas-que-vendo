@@ -2,5 +2,5 @@
 
 💰 **$600**
 
-<img src="1.jpg" />
-<img src="2.jpg" />
+<img src="1.JPG" />
+<img src="2.JPG" />
