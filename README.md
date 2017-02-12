@@ -18,6 +18,4 @@
 | **Todo lo demás**||
 | [Monitor LG 23" E2340 LCD HDMI/DVI/VGA](/informatica/monitor/README.md)	| 2500
 | [Netbook HP Mini 210 roja 2010 (Atom 1.6ghz)](/otro/netbook/README.md)	| 2000
-| Samsung Galaxy Tab 7.0 plus 16GB	| 2000
-| Parlantitos portátiles Philips SPA3250	| 200
-| Auricular Inalámbrico RCA/Radio	| 500
+| [Samsung Galaxy Tab 7.0 plus 16GB](/otro/tablet/README.md) | 2000
