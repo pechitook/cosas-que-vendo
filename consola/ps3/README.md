@@ -4,7 +4,7 @@ Viene con todo lo que se ve en la foto más un transformador.
 
 Detallando:
 
-- 4 Joytsicks originales
+- 4 Joysticks originales
 - 1 cable USB
 - 1 soporte/cargador para 2 joysticks
 - PS3 Slim 120gb modelo CECH-2001A modelo Jun 2009
