@@ -15,9 +15,9 @@
 | **Consola**||
 | [PS3 120gb con 4 joysticks - IDEAL FIFA 17](/consola/ps3/README.md) | 4500 |
 | [Xbox 360 4GB Slim + Kinect con 2 joysticks + juegos](/consola/xbox/README.md) | 5000 |
-| **Informática**||
-| Monitor LG 23" E2340 LCD HDMI/DVI/VGA	| 2500
-| Netbook HP Mini 210 roja 2010 (Atom 1.6ghz)	| 2000
+| **Todo lo demás**||
+| [Monitor LG 23" E2340 LCD HDMI/DVI/VGA](/informatica/monitor/README.md)	| 2500
+| [Netbook HP Mini 210 roja 2010 (Atom 1.6ghz)](/otro/netbook/README.md)	| 2000
 | Samsung Galaxy Tab 7.0 plus 16GB	| 2000
 | Parlantitos portátiles Philips SPA3250	| 200
 | Auricular Inalámbrico RCA/Radio	| 500
