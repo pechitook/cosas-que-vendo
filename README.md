@@ -14,7 +14,7 @@
 | [Go Pro Hero3+ con bocha de accesorios + SD 32GB](/fotografia/gopro/README.md)	| 4500
 | **Consola**||
 | [PS3 120gb con 4 joysticks - IDEAL FIFA 17](/consola/ps3/README.md) | 4500 |
-| [Xbox Kinect con 2 joysticks LT3.0 + juegos](/consola/xbox/README.md) | 4500 |
+| [Xbox 360 4GB Slim + Kinect con 2 joysticks + juegos](/consola/xbox/README.md) | 5000 |
 | **Informática**||
 | Monitor LG 23" E2340 LCD HDMI/DVI/VGA	| 2500
 | Netbook HP Mini 210 roja 2010 (Atom 1.6ghz)	| 2000
