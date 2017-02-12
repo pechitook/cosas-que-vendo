@@ -11,10 +11,10 @@
 | [iPod touch 4ta gen con cámara 8GB](/apple/ipod-touch-4th/README.md)	| 900
 | [iPod touch (2nd generation) 16gb](/apple/ipod-touch-2nd/README.md)	| 600
 | **Fotografía**||
-| Go Pro Hero3+ con bocha de accesorios + SD 32GB	| 4500
+| [Go Pro Hero3+ con bocha de accesorios + SD 32GB](/fotografia/gopro/README.md)	| 4500
 | **Consola**||
-| PS3 500gb con 4 joysticks|4000|
-| Xbox Kinect con 2 joysticks LT3.0 + juegos|4000|
+| PS3 500gb con 4 joysticks | 4000 |
+| Xbox Kinect con 2 joysticks LT3.0 + juegos | 4000 |
 | **Informática**||
 | Monitor LG 23" E2340 LCD HDMI/DVI/VGA	| 2500
 | Netbook HP Mini 210 roja 2010 (Atom 1.6ghz)	| 2000
