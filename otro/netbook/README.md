@@ -1,5 +1,7 @@
 ## Netbook HP Mini 210
 
+No funciona la batería, sólo anda enchufada a la corriente.
+
 💰 **$2000**
 
 <img src="1.JPG" />
