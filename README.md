@@ -13,8 +13,8 @@
 | **Fotografía**||
 | [Go Pro Hero3+ con bocha de accesorios + SD 32GB](/fotografia/gopro/README.md)	| 4500
 | **Consola**||
-| PS3 500gb con 4 joysticks | 4000 |
-| Xbox Kinect con 2 joysticks LT3.0 + juegos | 4000 |
+| PS3 500gb con 4 joysticks | 4500 |
+| Xbox Kinect con 2 joysticks LT3.0 + juegos | 4500 |
 | **Informática**||
 | Monitor LG 23" E2340 LCD HDMI/DVI/VGA	| 2500
 | Netbook HP Mini 210 roja 2010 (Atom 1.6ghz)	| 2000
