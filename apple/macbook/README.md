@@ -6,7 +6,7 @@ Info del sistema:
 
 **Process**  2.16 GHz Intel Core 2 Duo  
 **Memory**  4 GB 667 MHz DDR2 SDRAM  - Venía con 2 y lo upgradeé, difícil conseguir esta máquina con 4GB  
-**Graphics**  Intel GMA 950 64 MB  
+**Graphics**  Intel GMA 950 64 MB  
 **Software**  Mac OS X Lion 10.7.4 (11E53) (upgradeble a 10.7.5)  
 **Disco**: 120GB
 
