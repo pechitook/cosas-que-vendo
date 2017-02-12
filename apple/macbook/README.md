@@ -4,7 +4,7 @@ Modelo 2009 (late 2008). Viene con cargador y batería todavía con vida útil (
 
 Tiene un par de detalles por el uso como se ve en las fotos, pero sacando eso funca de primera.
 
-💰 **$4000**
+💰 **$5000**
 
 <img src="1.JPG" />
 <img src="2.JPG" />

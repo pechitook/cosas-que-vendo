@@ -3,7 +3,7 @@
 |Qué?|Cúanto?|
 |---|---|
 | **Apple** | |
-| [Macbook blanca 13" 2.16ghz 4gb](/apple/macbook/README.md)	| 4000
+| [Macbook blanca 13" 2.16ghz 4gb](/apple/macbook/README.md)	| 5000
 | [Magic Mouse 1](/apple/mouse/README.md) | 1200 |
 | [Trackpad inalámbrico 💥 (estallado pero funca)](/apple/trackpad/README.md)	| 500
 | [Teclado inalámbrico + funda](/apple/teclado/README.md)	| 1500
