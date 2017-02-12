@@ -4,6 +4,8 @@ No funciona la batería, sólo anda enchufada a la corriente. Detalle del equipo
 
 <img src="equipo.png" />
 
+Disco 320GB
+
 💰 **$2000**
 
 <img src="1.JPG" />
