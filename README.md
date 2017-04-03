@@ -7,7 +7,6 @@
 | [Magic Mouse 1](/apple/mouse/README.md) | 1000 |
 | [Trackpad inalámbrico 💥 (estallado pero funca)](/apple/trackpad/README.md)	| 500
 | [Teclado inalámbrico + funda](/apple/teclado/README.md)	| 1500
-| [iPod nano 5ta gen con cámara 16gb 🏃‍♀️🏃](/apple/ipod-nano/README.md)	| 500
 | [iPod touch 4ta gen con cámara 8GB](/apple/ipod-touch-4th/README.md)	| 900
 | [iPod touch (2nd generation) 16gb](/apple/ipod-touch-2nd/README.md)	| 600
 | **Fotografía**||
